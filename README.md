@@ -1,1 +1,1 @@
-# WP, Woo, PrestaShop & OpenCart issue solver.
+WP, Woo, PrestaShop & OpenCart issue solver.
